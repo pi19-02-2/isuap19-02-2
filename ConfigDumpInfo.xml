@@ -94,7 +94,7 @@
 		<Metadata name="Document.ПриходнаяНакладная.Form.ФормаДокумента" id="01b02046-41fa-4ff5-ae5c-5fd2ae67d0c6" configVersion="5430a19a2c9c084e9bf48b9a0936b23200000000"/>
 		<Metadata name="Document.ПриходнаяНакладная.Form.ФормаДокумента.Form" id="01b02046-41fa-4ff5-ae5c-5fd2ae67d0c6.0" configVersion="bb9da970720b684f8f3735a88f0d38aa00000000"/>
 		<Metadata name="Document.ПриходнаяНакладная.ObjectModule" id="3a481469-d431-4486-ab67-5942019bba64.0" configVersion="1c4e6722f213ec4992398196caaf5c8500000000"/>
-		<Metadata name="Document.РасходнаяНакладная" id="91b76afc-5d36-41da-8ff3-95f8e80df723" configVersion="9989b6091837a04ba788ec6412a661f700000000">
+		<Metadata name="Document.РасходнаяНакладная" id="91b76afc-5d36-41da-8ff3-95f8e80df723" configVersion="14c4a66f7ef85342ba2ff3a210bb7e5500000000">
 			<Metadata name="Document.РасходнаяНакладная.TabularSection.СписокНоменклатуры.Attribute.Номенклатура" id="035633fb-4c65-453e-880a-ed2aa75c76b2"/>
 			<Metadata name="Document.РасходнаяНакладная.TabularSection.СписокНоменклатуры.Attribute.Сумма" id="0b8b4b3d-de5d-4b96-b29c-558b83a0e140"/>
 			<Metadata name="Document.РасходнаяНакладная.TabularSection.СписокНоменклатуры" id="23d0506a-8a80-4ea0-a3d3-19157128f289"/>
@@ -106,7 +106,7 @@
 		</Metadata>
 		<Metadata name="Document.РасходнаяНакладная.Form.ФормаДокумента" id="b23dc9e9-b5d3-488c-8b33-ff821da8f48f" configVersion="e38fb63373426a47ad6b124e0ece4e5600000000"/>
 		<Metadata name="Document.РасходнаяНакладная.Form.ФормаДокумента.Form" id="b23dc9e9-b5d3-488c-8b33-ff821da8f48f.0" configVersion="177d1cc92388054c8f7601fb671ec31c00000000"/>
-		<Metadata name="Document.РасходнаяНакладная.ObjectModule" id="91b76afc-5d36-41da-8ff3-95f8e80df723.0" configVersion="d254c95a00a51d478d686986615ebde500000000"/>
+		<Metadata name="Document.РасходнаяНакладная.ObjectModule" id="91b76afc-5d36-41da-8ff3-95f8e80df723.0" configVersion="de7e650df49d0248a98a4797630af9f100000000"/>
 		<Metadata name="Document.УстановкаМетодаСписания" id="df6efd9e-8c8c-42a4-83f3-cd5fc34b1378" configVersion="72c2f6cea3046b429ebfa7b877dc229400000000">
 			<Metadata name="Document.УстановкаМетодаСписания.Attribute.МетодСписания" id="012d14ab-84fd-48ee-a44f-e3be0be34e2e"/>
 		</Metadata>
