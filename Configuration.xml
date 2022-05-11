@@ -28,7 +28,7 @@
 			</xr:ContainedObject>
 			<xr:ContainedObject>
 				<xr:ClassId>fb282519-d103-4dd3-bc12-cb271d631dfc</xr:ClassId>
-				<xr:ObjectId>777631b6-73d5-4d1d-a7ec-9c01d2db613a</xr:ObjectId>
+				<xr:ObjectId>f4c3964e-946d-4f73-958a-92b3e778a5f7</xr:ObjectId>
 			</xr:ContainedObject>
 		</InternalInfo>
 		<Properties>
@@ -230,6 +230,7 @@
 			<CommonPicture>Расчеты</CommonPicture>
 			<CommonPicture>БизнесПроцессы</CommonPicture>
 			<CommonPicture>Сервис</CommonPicture>
+			<Role>Роль1</Role>
 			<Catalog>Валюты</Catalog>
 			<Catalog>Номенклатура</Catalog>
 			<Catalog>Контрагенты</Catalog>
