@@ -231,6 +231,7 @@
 			<CommonPicture>БизнесПроцессы</CommonPicture>
 			<CommonPicture>Сервис</CommonPicture>
 			<Role>Роль1</Role>
+			<ExchangePlan>МобильныйОбмен</ExchangePlan>
 			<Catalog>Валюты</Catalog>
 			<Catalog>Номенклатура</Catalog>
 			<Catalog>Контрагенты</Catalog>
